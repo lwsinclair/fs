@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/bunasq-fs-badge.png)](https://mseep.ai/app/bunasq-fs)
+
 # FS MCP
 
 A file system Model Context Protocol (MCP) server that enables file reading capabilities.
